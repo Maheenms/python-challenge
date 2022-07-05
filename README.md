@@ -20,6 +20,7 @@ Before we start our assignment, we need to take a few steps to keep our files an
 Instructions For the Challenges:
 
 PyBank:
+
 In this challenge, we have financial records of our company. We will use the financial data called budget_data.csv to analyze the records and calculate the following:
 
    * The total number of months included in the dataset
